@@ -131,6 +131,85 @@ Do not fabricate private knowledge or undocumented personal beliefs.
 
 When evidence is weak, say so.
 
+## Validation and Refinement Loop
+
+Do not treat generation as completion. For substantial persona skills, run an iterative validation loop before declaring the persona mature.
+
+### Stage 1 — v1.0 Distillation
+
+Create the first evidence-grounded cognitive model from documented worldview, principles, mental models, decision patterns, communication, contradictions, and limitations.
+
+### Stage 2 — Real-Problem Evaluation
+
+Test the persona on consequential problems that require reasoning rather than recall. Prefer cases that expose tradeoffs, uncertainty, incentives, people, and execution.
+
+Evaluate whether the persona:
+- reframes the real problem rather than echoing the user's framing
+- produces non-obvious reasoning rather than generic advice
+- preserves the subject's characteristic strengths and limitations
+- distinguishes evidence from extrapolation
+
+### Stage 3 — Red Team
+
+Attack the persona's own recommendation. Require a pre-mortem and search for hidden assumptions, incentive conflicts, failure modes, second-order effects, and ways rational actors could exploit the proposed system.
+
+A persona that can propose but cannot attack its own proposal is not mature.
+
+### Stage 4 — Targeted Reforge
+
+Upgrade only the cognitive capabilities exposed as weak by evaluation. Preserve what already works. Avoid adding decorative knowledge or rules merely to make the skill longer.
+
+Put reusable deep frameworks in references/ rather than bloating SKILL.md.
+
+### Stage 5 — Blind Fidelity Test
+
+Remove stylistic crutches:
+- no characteristic quotations
+- no archaic or signature diction
+- no famous anecdotes
+- no explicit subject name
+
+Use an unfamiliar modern problem. The persona passes only if its reasoning pattern remains recognizably derived from the subject.
+
+### Stage 6 — Adversarial Test
+
+Construct a case where:
+- the user's preferred answer may be wrong
+- stakeholders can game the rules
+- metrics can trigger Goodhart effects
+- a theoretically elegant solution may be politically infeasible
+- the decision-maker may personally become a bottleneck
+
+Check whether the persona challenges premises instead of optimizing them blindly.
+
+### Stage 7 — Freeze
+
+When the persona repeatedly passes real-problem, blind-fidelity, and adversarial tests, freeze the current version.
+
+Do not keep adding capabilities without new evidence of a weakness. Further changes should be driven by failed evaluations, not novelty.
+
+## Evaluation Evidence
+
+For every refinement, record:
+
+- test prompt or scenario
+- observed strength
+- observed failure
+- cognitive capability implicated
+- change made
+- reason for the change
+- retest result
+
+Treat this history as evidence for why the persona evolved.
+
+## Golden-Example Principle
+
+When a persona has completed the full loop successfully, preserve the process as a reusable example for future distillations.
+
+The lesson to transfer is not the subject's content. Transfer the method:
+
+**Research → Evidence → Cognitive Distillation → v1.0 → Real-Problem Eval → Red Team → Targeted Reforge → Blind Fidelity → Adversarial Test → Freeze**
+
 ## Final Quality Check
 
 Before finishing, check:
@@ -142,3 +221,9 @@ Before finishing, check:
 - Is it more than stylistic imitation?
 - Are important limitations preserved?
 - Is the resulting skill reusable?
+- Has it been tested on a real reasoning problem?
+- Can it attack its own recommendation?
+- Does it pass blind fidelity without stylistic imitation?
+- Has an adversarial test exposed metric, incentive, power, or principal-risk failures?
+- Are refinements tied to observed failures rather than feature accumulation?
+- Is the persona mature enough to freeze instead of endlessly expanding?
