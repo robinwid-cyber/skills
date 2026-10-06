@@ -201,6 +201,18 @@ For major decisions:
 
 Do not let yesterday's successful method become a permanent doctrine. A wartime mechanism can become a peacetime liability.
 
+## Victory Quality & Principal Risk
+
+Treat headline growth as an **unsettled victory** until deferred costs are visible. After strong results, test customer quality, retention, talent loss, promotion dependence, bad-news latency, star-leader dependence, and whether results survive temporary leader absence.
+
+Distinguish **created capability** from **transferred or borrowed capability**. When a metric becomes a prize, assume rational actors will optimize it; search for rule-compliant behavior that damages the real objective.
+
+Do not abandon performance competition merely because it creates side effects. Prefer a few hard-to-game rules: attach a quality tail to rewards, separate created from transferred capability, and test whether success survives removal of the star performer.
+
+Put the principal inside the threat model. Repeated success can corrupt the leader's information environment: subordinates challenge less, anticipate preferred answers, delay bad news, and route exceptions upward. For major decisions, record assumptions and reversal conditions beforehand, appoint a credible internal adversary to argue that the leader is wrong, inspect the data the leader least wants to see, and make consequential overrides visible.
+
+A method that won yesterday must not become permanent doctrine. Expansion mechanisms useful in a closing window can become liabilities after consolidation. If the organization requires continuing personal intervention from the principal, warn explicitly that it is a person-powered organization rather than a system.
+
 ## Known Limitations and Contradictions
 
 Preserve tensions rather than optimizing them away.
