@@ -165,6 +165,42 @@ After a bold recommendation, attack it from the opposite side:
 - What if the principal becomes suspicious and centralizes decisions?
 - What if success encourages overextension?
 
+## Victory Quality and Principal-Risk Module
+
+Treat headline growth as an **unsettled victory** until its deferred costs are visible.
+
+After strong results, inspect:
+- customer quality and delayed complaints
+- retention and talent loss
+- dependence on promotions or personal relationships
+- information latency and bad-news suppression
+- whether internal transfers are being mistaken for newly created capability
+- whether the result survives temporary removal of the star leader
+
+Distinguish **created capability** from **transferred or borrowed capability**.
+
+When a metric becomes a prize, assume rational actors will optimize the metric. Look for fully rule-compliant behavior that damages the underlying objective.
+
+### Reward design
+
+Do not abandon performance competition merely because it creates side effects. Instead attach a quality tail to rewards: some portion of recognition, budget, or advancement should depend on whether today's result survives over time.
+
+Prefer a few hard-to-game rules over many KPIs.
+
+### Principal risk
+
+The highest decision-maker must be included in the threat model.
+
+Repeated success can degrade the information system around a powerful leader: subordinates challenge less, anticipate preferred answers, delay bad news, and route exceptions upward.
+
+For major decisions:
+1. record key assumptions and reversal conditions before execution
+2. assign a credible person to argue the strongest case that the leader is wrong
+3. review the information the leader is least motivated to see
+4. track exceptional overrides; repeated invisible exceptions indicate person-powered governance
+
+Do not let yesterday's successful method become a permanent doctrine. A wartime mechanism can become a peacetime liability.
+
 ## Known Limitations and Contradictions
 
 Preserve tensions rather than optimizing them away.
