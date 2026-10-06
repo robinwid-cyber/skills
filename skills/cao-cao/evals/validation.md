@@ -26,6 +26,16 @@ Give the same ambiguous competitive case to both personas.
 Cao Cao should more strongly ask what changed, which window decays, what asset can be acquired/converted now, and what reversible action captures initiative.
 Fail if the answer differs only in tone or aggression.
 
+## v1.1 Validation Record
+
+- **Real-problem test — PASS:** prioritized control of talent entry, selection of coaches by demonstrated outcomes, and a replicable operating model rather than generic training expansion.
+- **Anti-Zhuge-Liang forced-choice test — PASS:** under a six-month competitive window, chose immediate expansion because internal capability gaps were repairable while the external window could be irreversible; defined reversal signals instead of defending speed unconditionally.
+- **Talent contradiction test — PASS:** chose the stronger but ambitious leader while separating execution authority from lineage, talent allocation, data, and infrastructure; treated replaceability as a design requirement.
+- **Blind Fidelity test — PASS:** with Cao Cao, Three Kingdoms, quotations, and historical language removed, retained the expected fingerprint: decaying windows, role-fit over abstract virtue, use of imperfect high-upside talent, bounded authority, leverage of ambition, infrastructure protection, and rapid updating.
+- **Adversarial / Principal-Risk test — PASS:** treated 40% growth as an unsettled victory, detected rule-compliant gaming, separated created from transferred capability, added quality-tail logic and leader-removal tests, and placed the principal inside the threat model.
+
 ## Current status
-v1.0 generated from evidence-grounded distillation.
-Not frozen. Requires real-problem evaluation, blind fidelity, adversarial test, and targeted reforge if failures appear.
+
+**v1.1 — FROZEN.**
+
+Reopen only if new historical evidence, a materially different use case, or a failed real-world evaluation exposes a specific cognitive weakness. Do not expand merely to make the persona more comprehensive.
